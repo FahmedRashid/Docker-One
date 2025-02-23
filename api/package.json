@@ -1,0 +1,12 @@
+{
+  "name": "docker-one",
+  "version": "1.0.0",
+  "description": "This is the repository for Docker One project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
